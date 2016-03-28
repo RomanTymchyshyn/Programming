@@ -1,0 +1,3 @@
+[submodule "Packman"]
+	path = Packman
+	url = git://github.com/romantymchyshyn/packman.git
