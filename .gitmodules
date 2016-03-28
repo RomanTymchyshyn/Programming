@@ -1,3 +1,6 @@
 [submodule "Packman"]
 	path = Packman
 	url = git://github.com/romantymchyshyn/packman.git
+[submodule "GraphAlgorithms"]
+	path = GraphAlgorithms
+	url = git://github.com/romantymchyshyn/graphalgorithms.git
