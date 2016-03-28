@@ -4,3 +4,12 @@
 [submodule "GraphAlgorithms"]
 	path = GraphAlgorithms
 	url = git://github.com/romantymchyshyn/graphalgorithms.git
+[submodule "Lab1_Base_algorithms"]
+	path = Lab1_Base_algorithms
+	url = git://github.com/romantymchyshyn/Lab1_Base_algorithms.git
+[submodule "Lab_2_Long_Arithmetics"]
+	path = Lab_2_Long_Arithmetics
+	url = git://github.com/romantymchyshyn/Lab_2_Long_Arithmetics.git
+[submodule "Lab3_Long_Rational_Arithmetics"]
+	path = Lab3_Long_Rational_Arithmetics
+	url = git://github.com/romantymchyshyn/Lab3_Long_Rational_Arithmetics.git
